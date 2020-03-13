@@ -1,2 +1,1 @@
-# practicalminimum.github.io
-Official website
+# The Practcal Minimum
