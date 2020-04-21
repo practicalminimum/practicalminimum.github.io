@@ -1,1 +1,1 @@
-# The Practcal Minimum
+# The Practical Minimum
